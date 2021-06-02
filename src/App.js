@@ -9,6 +9,9 @@ function App() {
     <div className="App">
       <Quotes click={click} />
       <Button setClick={setClick} />
+      <p>
+        Data comes from "https://adem-cyf-quote-server.glitch.me/quotes/random/"
+      </p>
     </div>
   );
 }
