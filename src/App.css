@@ -14,8 +14,9 @@
 }
 
 .btn {
-  color: rgb(201, 109, 201);
-  background-color: seagreen;
+  color: gold;
+  font-weight: bold;
+  background-color: turquoise;
   width: 200px;
   height: 50px;
 }
